@@ -9,7 +9,8 @@ https://github.com/ayush99-dotcom/Sales-Data-Sample-Analysis/blob/main/sales_dat
 
 ## 🛠️ Tools & Technologies
 - Python (Jupyter Notebooks)  
-- Pandas, NumPy  
+- Pandas
+- Excel 
 - Power BI  
 
 ---
